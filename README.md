@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on segmentation models, time series classification and arable optimization!
+🔭 I’m currently working on segmentation models, time series classification and arable farming optimization!
 
 ⚡ Fun fact: I majored in control systems engineering, and I love optimization!
 
