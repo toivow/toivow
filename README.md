@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a 23 year old master's thesis worker from Tampere, Finland!
 <!--
 **toivow/toivow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on segmentation models, time series classification and arable optimization!
+⚡ Fun fact: I majored in control systems engineering
+👯 I also do freelance data science stuff, whatever your small python scripting needs may be!
