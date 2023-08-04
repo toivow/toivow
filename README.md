@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 👯 I also do freelance data science stuff, whatever your small python scripting needs may be!
 
+🗣 I speak Finnish🇫🇮, English 🇺🇸, German 🇩🇪 and Swedish 🇸🇪
+
 🌱 I’m currently learning danish 🇩🇰
