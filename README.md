@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 🗣 I speak Finnish🇫🇮, English 🇺🇸, German 🇩🇪 and Swedish 🇸🇪
 
-🌱 I’m currently learning danish 🇩🇰
+<!--🌱 I’m currently learning danish 🇩🇰 -->
