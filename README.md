@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 23 year old master's thesis worker from Tampere, Finland!
+I am a 24 year old master's thesis worker from Tampere, Finland!
 <!--
 **toivow/toivow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
